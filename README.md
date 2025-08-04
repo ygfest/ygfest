@@ -10,6 +10,13 @@
   </a>
 </p>
 
+<h3 alight="left">Currently Learning:</h3>
+<p align="left">React Native + Expo</p>
+<p align="left">
+  <a href="https"//skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=reactnative,expo"/></a>
+</p>
+
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ygfest&layout=compact&theme=dark)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ygfest&show_icons=true&theme=dark&locale=en" alt="ygfest" /></p>
@@ -18,8 +25,7 @@
 
 ###
 
-<h3 alight="left">Currently Learning:</h3>
-<p align="left">React Native + Expo</p>
+
 
 <div align="left">
   <a href="https://www.instagram.com/__sstefano/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="instagram logo"  /></a>
