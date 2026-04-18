@@ -9,9 +9,6 @@
     <img src="https://skillicons.dev/icons?i=ts,python,js,html,css,nodejs,fastapi,nextjs,tailwind,react,vite,redux,git,github,gitlab,vercel,vscode,figma,mysql,express,mongodb,postgres,supabase,prisma,firebase,postman,npm,bash,aws" />
   </a>
 </p>
-
-<h3 alight="left">Currently Learning:</h3>
-<p align="left">React Native + Expo</p>
 <p align="left">
   <a href="https"//skillicons.dev">
   <img src="https://skillicons.dev/icons?i=reactnative,expo"/></a>
